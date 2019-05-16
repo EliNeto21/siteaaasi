@@ -4,5 +4,6 @@ Site para a atletica estudantil do curso sistemas de informação do Instituto F
 
 Desenvolvedores
 Eli Alves de Almeida Neto
-Lucas Cerdeira Leonardo Codra
+Lucas Cerdeira 
+Leonardo Croda
 Victor Augusto 
