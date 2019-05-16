@@ -73,8 +73,12 @@ nav li{
 	padding: 10px;
 	font-size: 18px;	
 }
+nav li:hover{
+	border-radius: 10px;
+	transition-duration: 0.5s;
+}
 nav a:hover{
-	font-weight: 600;
+	font-weight: 1000;
 }
 
 .banner{
@@ -199,10 +203,56 @@ nav a:hover{
 	box-shadow: 0 0 08px;
 }
 
-.superior:hover img{
+/*.superior:hover img{
 	-moz-transform: scale(1.1);
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
+}*/
+.Equipe:hover {
+	-moz-transform: scale(1.18);
+	-webkit-transform: scale(1.18);
+	transform: scale(1.18);
+}
+
+.redes{
+	display: inline-flex;
+	position: absolute;
+	text-align: left;
+}
+
+
+.redes:hover{
+	display: none;	
+}
+
+#Presidente:hover {
+	-moz-transform: scale(1.18);
+	-webkit-transform: scale(1.18);
+	transform: scale(1.18);
+}
+
+#Vice{
+	-moz-transform: scale(1.18);
+	-webkit-transform: scale(1.18);
+	transform: scale(1.18);
+}
+
+#Tesoureiro{
+	-moz-transform: scale(1.18);
+	-webkit-transform: scale(1.18);
+	transform: scale(1.18);
+}
+
+#Secretario{
+	-moz-transform: scale(1.18);
+	-webkit-transform: scale(1.18);
+	transform: scale(1.18);
+}
+
+#Marketing{
+	-moz-transform: scale(1.18);
+	-webkit-transform: scale(1.18);
+	transform: scale(1.18);
 }
 
 .inferior img{
@@ -214,11 +264,13 @@ nav a:hover{
 	box-shadow: 0 0 08px;
 }
 
-.inferior:hover img{
+/*.inferior:hover img{
 	-moz-transform: scale(1.1);
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
 }
+*/
+
 
 .unidade{  ---> /* ESSA CLASSE É USADA PARA TODAS AS UNIDADES "UNIDADE PRESIDENTE", "UNIDADE VICE" ..... */ 
 	display: inline-block;
