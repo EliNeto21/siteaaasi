@@ -1,9 +1,9 @@
 ﻿# SiteAtletica
 
-Site para a atletica estudantil do curso sistemas de informação do Instituto Federal Catarinense - Campus Camboriú
+Site para a Associação Atlética Acadêmica do curso Sistemas de Informação do Instituto Federal Catarinense - Campus Camboriú
 
-Desenvolvedores
-Eli Alves de Almeida Neto
-Lucas Cerdeira 
-Leonardo Croda
-Victor Augusto 
+Desenvolvedores;
+Eli Alves de Almeida Neto;
+Lucas Cerdeira; 
+Leonardo Croda;
+Victor Augusto;
