@@ -322,3 +322,18 @@ footer{
     background: white;
     display: both;
 }
+
+div ul {
+	list-style: none;
+	display: block;
+	position: relative;
+}
+.redes5 {
+	position: absolute;
+    top: 0;
+    display: none;
+    right: 500px;
+}
+.fotoVictor:hover li{
+	display: block;
+}
