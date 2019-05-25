@@ -355,9 +355,6 @@ div ul {
 	margin-bottom: 10px;
 }
 
-.fotoLeo:hover #redes4{
-	display: block;
-}
-.fotoVictor:hover #redes5{
+.fotoEquipe:hover #redes_hover{
 	display: block;
 }
