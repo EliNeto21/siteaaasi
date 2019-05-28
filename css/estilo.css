@@ -208,13 +208,18 @@ nav a:hover{
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
 }*/
+.Equipe{
+	 width: 200px;
+	 height: 250px;
+}
+
 .Equipe:hover {
 	-moz-transform: scale(1.18);
 	-webkit-transform: scale(1.18);
 	transform: scale(1.18);
 }
 
-.redes{
+/*.redes{
 	display: inline-flex;
 	position: absolute;
 	text-align: left;
@@ -224,7 +229,7 @@ nav a:hover{
 .redes:hover{
 	display: none;	
 }
-
+*/
 #Presidente:hover {
 	-moz-transform: scale(1.18);
 	-webkit-transform: scale(1.18);
@@ -277,6 +282,9 @@ nav a:hover{
 	margin-left: 30px; 
 	margin-right: 30px;
 }
+.inferior{
+	text-align: center;
+}
 
 /* FIM DA PÁGINA "EQUIPE" ///////////////////////////////////////////////*/
 
@@ -328,12 +336,24 @@ div ul {
 	display: block;
 	position: relative;
 }
-.redes5 {
+.Redes {
 	position: absolute;
     top: 0;
     display: none;
-    right: 500px;
+    left: 250px;
+    transition: 2s;
 }
-.fotoVictor:hover li{
+.ul_hover{
+    display: inline-block;
+	margin-left: 30px; 
+	margin-right: 30px;
+	padding-left: 0px; 
+	width: 250px;
+}
+.ul_hover:hover  li#cinco{
 	display: block;
+}
+.Icon{
+	width: 50px; 
+	height: 50px; 
 }
