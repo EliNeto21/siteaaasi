@@ -169,6 +169,18 @@ nav a:hover{
 	text-align: center;
 }
 
+.botao_ver{
+	font-size: 20px; 
+	padding: 15px;
+	color: white; 
+	background-color: red;
+	opacity: 0.85;
+	border-color: white;
+	border-width: 8px;
+	border-style: double;
+	border-radius: 100px;
+	
+}
 /* FIM DA PÁGINA "HOME" ///////////////////////////////////////////////*/
 
 /* INICIO DA PÁGINA "EQUIPE" ///////////////////////////////////////////////*/
