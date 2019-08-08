@@ -117,20 +117,33 @@ nav a:hover{
 }
 
 .coluna_col7{
-	margin-top: 150px;
+	margin-top: 100px;
 	text-align: center;
+	/*background-color: rgba(252, 0, 0, 0.01);*/
+	color: black;
+	border-top-style: double;
+	border-bottom-style: solid;
+	border-right-style: double;
+	border-left-style: solid;
+	border-top-width: 8px;
+	border-right-width: 12px;
+	border-color: rgba(0, 0, 0, 0.8);
+	border-radius: 10px;
+	margin-left: 300px;
+	margin-right: 300px;
+	padding: 10px 50px 50px 50px;
 }
 
 .coluna_col7 p{
 	text-align: justify;
-	/*text-align: center;*/
+	align-self: center;
 }
 
 .colune_col3_sidebar{
 	text-align: justify;
 	
 
-	margin-top: 150px;
+	margin-top: 100px;
 	text-align: center;
 
 }
@@ -164,8 +177,8 @@ nav a:hover{
 }
 
 .coluna_col5{
-	margin-top: 150px;
-	margin-bottom: 100px;
+	margin-top: 100px;
+	margin-bottom: 50px;
 	text-align: center;
 }
 
@@ -179,8 +192,27 @@ nav a:hover{
 	border-width: 8px;
 	border-style: double;
 	border-radius: 100px;
-	
+	transition: 0.3s;
 }
+
+.botao_ver:hover{
+background-color: black;
+padding: 30px;
+
+}
+
+.titulo{
+	/*border-left-style: solid;
+	border-right-style: solid;
+	border-width: 3px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 15px;
+/*/
+    font-size: 30px;
+}
+
+
 /* FIM DA PÁGINA "HOME" ///////////////////////////////////////////////*/
 
 /* INICIO DA PÁGINA "EQUIPE" ///////////////////////////////////////////////*/
